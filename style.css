@@ -1,0 +1,21 @@
+body{
+    background-color: aquamarine;
+}
+
+#heading {
+    text-align: center;
+    color: blue;
+}
+
+
+.div {
+    text-align: center;
+}
+
+#head {
+    color:crimson;
+}
+
+hr {
+    height: 5px;
+}
